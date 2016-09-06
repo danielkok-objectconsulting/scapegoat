@@ -1,7 +1,6 @@
 /***
- * Top
+ * Header
  * Escape special characters in the given string of html.
- * Footer
  * @param  {String} html
  * @return {String}
  */
